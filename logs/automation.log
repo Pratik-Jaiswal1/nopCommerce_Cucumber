@@ -1,0 +1,81 @@
+11:49:20.664 [main] INFO  - *********Launching browser***************
+11:49:23.994 [main] INFO  - *********Opening URL***************
+11:49:25.775 [main] INFO  - *********Providing User Info***************
+11:49:55.843 [main] INFO  - *********Login Validation Start***************
+11:49:55.922 [main] INFO  - *********Login Successful***************
+11:49:58.952 [main] INFO  - *********Logout from Application***************
+11:50:09.857 [main] INFO  - *********Login Validation Start***************
+11:50:09.889 [main] INFO  - *********Login Successful***************
+11:50:12.927 [main] INFO  - *********Close Application***************
+11:50:13.276 [main] INFO  - *********Launching browser***************
+11:50:14.237 [main] INFO  - *********Opening URL***************
+11:50:16.033 [main] INFO  - *********Providing User Info***************
+11:50:23.197 [main] INFO  - *********Login Validation Start***************
+11:50:23.277 [main] INFO  - *********Login Successful***************
+11:50:26.313 [main] INFO  - *********Logout from Application***************
+11:50:31.344 [main] INFO  - *********Login Validation Start***************
+11:50:31.376 [main] INFO  - *********Login Successful***************
+11:50:34.407 [main] INFO  - *********Close Application***************
+11:50:34.804 [main] INFO  - *********Launching browser***************
+11:50:36.081 [main] INFO  - *********Opening URL***************
+11:50:37.815 [main] INFO  - *********Providing User Info***************
+11:50:42.135 [main] INFO  - *********Login Validation Start***************
+11:50:42.151 [main] INFO  - *********Login Failed***************
+12:30:20.630 [main] INFO  - *********Launching browser***************
+12:30:20.664 [main] INFO  - *********Opening URL***************
+12:30:22.925 [main] INFO  - *********Providing User Info***************
+12:30:29.655 [main] INFO  - *********Login Validation Start***************
+12:30:29.827 [main] INFO  - *********Login Successful***************
+12:30:32.873 [main] INFO  - *********Logout from Application***************
+12:30:37.833 [main] INFO  - *********Login Validation Start***************
+12:30:37.875 [main] INFO  - *********Login Successful***************
+12:30:40.914 [main] INFO  - *********Close Application***************
+12:30:42.219 [main] INFO  - *********Launching browser***************
+12:30:42.219 [main] INFO  - *********Opening URL***************
+12:30:45.122 [main] INFO  - *********Providing User Info***************
+12:31:23.123 [main] INFO  - *********Login Validation Start***************
+12:31:23.186 [main] INFO  - *********Login Successful***************
+12:31:26.227 [main] INFO  - *********Logout from Application***************
+12:31:30.822 [main] INFO  - *********Login Validation Start***************
+12:31:30.831 [main] INFO  - *********Login Successful***************
+12:31:33.853 [main] INFO  - *********Close Application***************
+12:31:35.696 [main] INFO  - *********Launching browser***************
+12:31:35.696 [main] INFO  - *********Opening URL***************
+12:31:38.382 [main] INFO  - *********Providing User Info***************
+12:31:43.414 [main] INFO  - *********Login Validation Start***************
+12:31:43.449 [main] INFO  - *********Login Failed***************
+13:08:16.068 [main] INFO  - *********Launching browser***************
+13:08:16.092 [main] INFO  - *********Opening URL***************
+13:08:19.081 [main] INFO  - *********Providing User Info***************
+13:08:25.127 [main] INFO  - *********Login Validation Start***************
+13:08:25.261 [main] INFO  - *********Login Successful***************
+13:08:28.299 [main] INFO  - *********Logout from Application***************
+13:08:32.840 [main] INFO  - *********Login Validation Start***************
+13:08:32.874 [main] INFO  - *********Login Successful***************
+13:08:35.916 [main] INFO  - *********Close Application***************
+13:09:15.988 [main] INFO  - *********Launching browser***************
+13:09:16.026 [main] INFO  - *********Opening URL***************
+13:09:17.608 [main] INFO  - *********Providing User Info***************
+13:09:24.725 [main] INFO  - *********Login Validation Start***************
+13:09:24.843 [main] INFO  - *********Login Successful***************
+13:09:27.871 [main] INFO  - *********Logout from Application***************
+13:09:32.455 [main] INFO  - *********Login Validation Start***************
+13:09:32.482 [main] INFO  - *********Login Successful***************
+13:09:35.507 [main] INFO  - *********Close Application***************
+13:10:40.241 [main] INFO  - *********Launching browser***************
+13:10:40.277 [main] INFO  - *********Opening URL***************
+13:10:41.917 [main] INFO  - *********Providing User Info***************
+13:10:48.663 [main] INFO  - *********Adding new Customer***************
+13:10:48.678 [main] INFO  - *********Dashboard display Validation***************
+13:10:57.739 [main] INFO  - *********Providing Customer details***************
+13:11:06.308 [main] INFO  - *********Add Customer Validation***************
+13:11:06.561 [main] INFO  - *********Close Application***************
+13:11:07.840 [main] INFO  - *********Launching browser***************
+13:11:07.843 [main] INFO  - *********Opening URL***************
+13:11:09.462 [main] INFO  - *********Providing User Info***************
+13:11:17.776 [main] INFO  - *********Login Validation Start***************
+13:11:17.890 [main] INFO  - *********Login Successful***************
+13:11:20.930 [main] INFO  - *********Logout from Application***************
+13:11:25.529 [main] INFO  - *********Login Validation Start***************
+13:11:25.563 [main] INFO  - *********Login Successful***************
+13:11:28.589 [main] INFO  - *********Close Application***************
